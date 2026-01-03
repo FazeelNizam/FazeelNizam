@@ -37,13 +37,7 @@
 <div align="center">
 <h2>📊 GitHub Stats</h2>
 
-<table>
-<tr>
-  <td>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=FazeelNizam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </td>
-</tr>
-</table>
+<img src="https://nirzak-streak-stats.vercel.app/?user=FazeelNizam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -51,11 +45,11 @@
 
 <h3>🔝 Top Contributed Repo</h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=FazeelNizam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=FazeelNizam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=FazeelNizam&icon=5&color=6" alt="Visitor Count" />
+[![](https://visitcount.itsvg.in/api?id=FazeelNizam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
