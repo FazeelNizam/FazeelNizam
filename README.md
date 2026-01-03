@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi,+I'm+Fazeel+Nizam;IoT+Okay+%26+Embedded+Systems+Trainee;Edge+AI+Enthusiast;Building+Smart+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi,+I'm+Fazeel+Nizam;IoT+%26+Embedded+Systems+Engineer;Edge+AI+Enthusiast;Building+Smart+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/fazeelnizam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,38 +12,8 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="center">
-      <img src="https://i.pinimg.com/originals/ac/d8/27/acd827fb0f2231e9481ba7141dc4fc7e.gif" alt="Circuit Animation" width="80%">
-    </td>
-    <td width="50%" valign="top">
-
-### 💫 About Me
-
-🔭 **I’m currently working on**<br>
-Building an ANPR-powered smart parking system for SLTMobitel using **Nvidia Jetson** and developing a Multi-Unit Environmental & Agricultural Monitoring System with **ESP32 and LoRa**.
-
-👯 **I’m looking to collaborate on**<br>
-Open-source **Edge AI** projects, real-time object detection systems (YOLO), and optimizing computer vision algorithms for low-power embedded devices like the **Raspberry Pi 5**.
-
-🤝 **I’m looking for help with**<br>
-Advanced **OCR post-processing** techniques (specifically for filtering non-standard region codes) and implementing energy-efficient **WebSocket** communication patterns for offline-capable IoT devices.
-
-🌱 **I’m currently learning**<br>
-Parallel Computing Architectures (focusing on **CUDA** for matrix multiplication) and advanced **FPGA design** using VHDL.
-
-💬 **Ask me about**<br>
-IoT System Design (ESP32/Embedded C), deploying YOLO models on the edge, interfacing sensors via MQTT, or Digital Logic Design with VHDL.
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
-  <h2>💻 Tech Stack & Arsenal</h2>
+  <h2>💻 Tech Arsenal</h2>
 
 ### 🤖 IoT & Hardware Edge
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
@@ -70,15 +40,10 @@ IoT System Design (ESP32/Embedded C), deploying YOLO models on the edge, interfa
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=FazeelNizam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </td>
-  <td>
     <img src="https://nirzak-streak-stats.vercel.app/?user=FazeelNizam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </td>
 </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazeelNizam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 <br/><br/>
 
