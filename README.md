@@ -39,9 +39,7 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=FazeelNizam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/><br/>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
 
 <h3>🔝 Top Contributed Repo</h3>
 
