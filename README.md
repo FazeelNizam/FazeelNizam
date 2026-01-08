@@ -34,7 +34,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 <h2>📊 GitHub Stats</h2>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=FazeelNizam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -50,4 +50,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=FazeelNizam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+</div> -->
